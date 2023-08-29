@@ -1,6 +1,6 @@
-Yoga-720-hackintosh
+# Lenovo Yoga 720 13IKB hackintosh Ventura EFI
 
-# This OpenCore config work for Lenovo Yoga 720-13IKB
+This is OpenCore 0.9.4 config work for Lenovo Yoga 720-13IKB
 Intel Core i7-8550U
 
 Based on https://github.com/dragonflylee/Yoga730-hackintosh with some changes and newer version OC
