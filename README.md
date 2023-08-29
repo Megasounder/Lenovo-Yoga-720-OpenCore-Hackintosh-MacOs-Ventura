@@ -46,6 +46,8 @@ Based on https://github.com/dragonflylee/Yoga730-hackintosh with some changes an
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 ```
+DUAL BOOT  WIN - MACOS via OpenCore
+if you make clean installation, remove Apple and Microsoft folders.
 
 I installed a macos on a free partition of a working laptop where Windows was installed. 
 The OpenCore bootloader has replaced the Windows bootloader and offers a choice of systems to boot on startup. 
